@@ -83,6 +83,11 @@ Basé sur **VGG16** pré-entraîné sur ImageNet avec une tête de classificatio
 | **Précision globale** | | | **0.80** | **132** |
 
 ---
+### Matrice de confusion
+
+![Matrice de confusion](matriceconf.png)
+
+---
 
 ## Stack Technique
 
