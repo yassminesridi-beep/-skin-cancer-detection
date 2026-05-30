@@ -7,6 +7,11 @@ Une application web full-stack qui utilise le transfer learning sur VGG16 pour c
 
 ## Démonstration
 
+
+
+https://github.com/user-attachments/assets/9bdbe72a-4d76-4309-9f7e-73aa5eba778b
+
+
 https://1drv.ms/v/c/611912a2f5a1579b/IQBfq5HkymHwRan1Yd_bN-mmAfe21G6fnV3dilNSA-ta74A?e=qYG0DR
 
 ---
