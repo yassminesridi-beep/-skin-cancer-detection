@@ -13,32 +13,30 @@ https://1drv.ms/v/c/611912a2f5a1579b/IQBfq5HkymHwRan1Yd_bN-mmAfe21G6fnV3dilNSA-t
 
 ## Captures d'écran
 
-<table>
-  <tr>
-    <td><img src="screenshots/login.png" width="400"/></td>
-    <td><img src="screenshots/dashboard.png" width="400"/></td>
-  </tr>
-  <tr>
-    <td align="center">Connexion</td>
-    <td align="center">Tableau de bord</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/predict.png" width="400"/></td>
-    <td><img src="screenshots/result.png" width="400"/></td>
-  </tr>
-  <tr>
-    <td align="center">Formulaire d'analyse</td>
-    <td align="center">Résultat du diagnostic</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/patients.png" width="400"/></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center">Dossiers patients</td>
-    <td></td>
-  </tr>
-</table>
+---
+
+### Connexion
+![Connexion](login.png)
+
+---
+
+### Tableau de bord
+![Tableau de bord](dashboard.png)
+
+---
+
+### Formulaire d'analyse
+![Analyse](analyse.png)
+
+---
+
+### Résultat du diagnostic
+![Résultat](results.png)
+
+---
+
+### Dossiers patients
+![Patients](patients.png)
 
 ---
 
